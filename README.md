@@ -5,12 +5,18 @@ In [FrogLabs](https://github.com/froglabscl/) we have different cards for each c
 ## How to make it work?
 The first thing to do is to clone the repository, once you have done this, enter the repository with
 
-´´´cd clascardgen´´´
+´´´bash
+cd clascardgen
+´´´
 
 and then we will have to install all the dependencies with
 
-´´´ńpm install´´´
+´´´bash
+npm install
+´´´
 
 and to start our project we will do it with
 
-´´´npm start´´´
+´´´bash
+npm start
+´´´
