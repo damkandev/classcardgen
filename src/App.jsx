@@ -15,11 +15,10 @@ function App() {
         <Panel /> 
       </div>
       <div className="right">
-        <Card title="Un titulo curioso" description="Los cursos deben tener una descripción interesante, compleja pero no tanto con algunos toques de sarcasmo para causar gracia." teacher="Don Miguel" certificate={true}/>
+        <Card title="A curious title" description="The courses should have an interesting description, complex but not so complex with some touches of sarcasm to be funny." teacher="Don John" certificate={true}/>
         <Button action={submit}/>
-        <Toast className="" text="¡Se ha subido correctamente ☁️ la card!"/>
+        <Toast className="" text="Successfully uploaded ☁️ the card!"/>
       </div>
-      
     </div>
   );
 }
