@@ -84,6 +84,7 @@ body{
   border-radius: 1em 1em 0 0;
   height: 176px;
   width: 305px;
+  background-size: contain;
 }
 .card-title{
   font-weight: 900;

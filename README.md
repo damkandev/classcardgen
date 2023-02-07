@@ -1,4 +1,8 @@
 ![BANNER](./src/images/banner.png)
+
+![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 # Class Card Gen - [FrogLabs](https://github.com/froglabscl/)
 In the different projects it is sometimes necessary to practice internal tools that facilitate the work of the people working on it, so I wanted to put into practice my skills in [React](https://reactjs.org).
 ## Principal Idea

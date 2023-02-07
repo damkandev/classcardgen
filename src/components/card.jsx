@@ -1,10 +1,10 @@
 import React from "react";
 import Icon from '@mdi/react'
 import { mdiStar, mdiNote } from '@mdi/js'
-function Card({title, description, teacher, certificate}){
+function Card({title, description, teacher, certificate, thumbnail}){
   return (
     <div className="card">
-      <img src={require('../images/example.png')} alt="" className="card-thumbnail" />
+      <img loading="lazy" src={thumbnail} alt="" className="card-thumbnail" />
       <p className="card-title">{title}</p>
       <p className="card-description">{description}</p>
       <div className="card-info">
